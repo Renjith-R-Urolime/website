@@ -1,4 +1,4 @@
-versions: 1.0
+versions: 0.0
 os: linux
 files:
   - source: /index.html
